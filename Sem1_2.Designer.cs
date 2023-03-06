@@ -1,6 +1,6 @@
 ﻿namespace Geometrie_Computationala_Seminar
 {
-    partial class Seminar1
+    partial class Sem1_2
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Seminar1
+            // Sem1_2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(964, 561);
-            this.Name = "Seminar1";
-            this.Text = "Seminar1";
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "Sem1_2";
+            this.Text = "Seminar 1 - Exercitiul 2";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Sem1_2_Paint);
             this.ResumeLayout(false);
 
         }

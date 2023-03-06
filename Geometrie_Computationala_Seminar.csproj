@@ -60,6 +60,12 @@
     <Compile Include="Seminar1.Designer.cs">
       <DependentUpon>Seminar1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Seminar2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seminar2.Designer.cs">
+      <DependentUpon>Seminar2.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>

@@ -17,6 +17,36 @@ namespace Geometrie_Computationala_Seminar
             InitializeComponent();
         }
 
-        
+        private void buttonSem1_1_Click(object sender, EventArgs e)
+        {
+            Sem1_1 form = new Sem1_1();
+            form.ShowDialog();
+        }
+
+        private void buttonSem1_2_Click(object sender, EventArgs e)
+        {
+            Sem1_2 form = new Sem1_2();
+            form.ShowDialog();
+        }
+
+        private void buttonSem1_3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonSem2_1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonSem2_2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonSem2_3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
