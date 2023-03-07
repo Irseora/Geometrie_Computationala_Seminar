@@ -54,17 +54,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Seminar1.cs">
+    <Compile Include="Sem1_1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Seminar1.Designer.cs">
-      <DependentUpon>Seminar1.cs</DependentUpon>
+    <Compile Include="Sem1_1.Designer.cs">
+      <DependentUpon>Sem1_1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Seminar2.cs">
+    <Compile Include="Sem1_2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Seminar2.Designer.cs">
-      <DependentUpon>Seminar2.cs</DependentUpon>
+    <Compile Include="Sem1_2.Designer.cs">
+      <DependentUpon>Sem1_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sem2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sem2_1.Designer.cs">
+      <DependentUpon>Sem2_1.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
@@ -78,8 +84,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Seminar1.resx">
-      <DependentUpon>Seminar1.cs</DependentUpon>
+    <EmbeddedResource Include="Sem1_1.resx">
+      <DependentUpon>Sem1_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sem1_2.resx">
+      <DependentUpon>Sem1_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sem2_1.resx">
+      <DependentUpon>Sem2_1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -5,8 +5,10 @@ E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.csproj.SuggestedBindingRedirects.cache
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.Menu.resources
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.Properties.Resources.resources
-E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.Seminar1.resources
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.csproj.GenerateResource.cache
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.csproj.CoreCompileInputs.cache
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.exe
 E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.pdb
+E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.Sem1_1.resources
+E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.Sem1_2.resources
+E:\Winforms\Geometrie_Computationala_Seminar\obj\Debug\Geometrie_Computationala_Seminar.Sem2_1.resources

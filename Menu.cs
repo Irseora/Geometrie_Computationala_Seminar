@@ -36,7 +36,8 @@ namespace Geometrie_Computationala_Seminar
 
         private void buttonSem2_1_Click(object sender, EventArgs e)
         {
-
+            Sem2_1 form = new Sem2_1();
+            form.ShowDialog();
         }
 
         private void buttonSem2_2_Click(object sender, EventArgs e)
